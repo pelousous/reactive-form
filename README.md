@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## USEFUL LINK
 
-[Custom Validators](https://codecraft.tv/courses/angular/advanced-topics/basic-custom-validators/)
+[Custom Validators](https://codecraft.tv/courses/angular/advanced-topics/basic-custom-validators/ "(target|_blank)")
